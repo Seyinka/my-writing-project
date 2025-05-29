@@ -7,7 +7,7 @@ Personally, while practicing with various DevOps tools, I relied on documentatio
 
 So I decided to learn how to write tutorials, document processes, and contribute helpful content with WriteTechHub's bootcamp.
 
-## What I'ved learned so far
+## What I learned so far
 
 Git and Github is a very important tool for versio control. 
 Git branching is a powerful feature in Git that lets you create separate versions of your project so you can work on different tasks or features 
